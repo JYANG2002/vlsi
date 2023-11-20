@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      jyang68
+LoginName                      adong4
 HostName                       timberlake.cse.buffalo.edu
-ProcessIdentifier              25331
-ProcessCreationTime_UTC        1699913606
-ProcessCreationTime_Readable   Mon Nov 13 17:13:26 2023 EST
+ProcessIdentifier              9228
+ProcessCreationTime_UTC        1700073075
+ProcessCreationTime_Readable   Wed Nov 15 13:31:15 2023 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/xor/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon Nov 13 18:01:22 2023 EST
+FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/8_BIT_ADDER/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Nov 15 14:51:26 2023 EST
