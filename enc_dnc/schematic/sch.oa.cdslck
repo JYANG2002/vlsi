@@ -4,13 +4,13 @@
 # Information about current Edit Lock Owner.
 #
 LockStakeVersion               1.1
-LoginName                      wentians
+LoginName                      tamvu
 HostName                       timberlake.cse.buffalo.edu
-ProcessIdentifier              18947
-ProcessCreationTime_UTC        1701122499
-ProcessCreationTime_Readable   Mon Nov 27 17:01:39 2023 EST
+ProcessIdentifier              6720
+ProcessCreationTime_UTC        1701123932
+ProcessCreationTime_Readable   Mon Nov 27 17:25:32 2023 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/1#2dbit_ALU/schematic/sch.oa.cdslck
-TimeEditLocked                 Mon Nov 27 17:02:35 2023 EST
+FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/enc_dnc/schematic/sch.oa.cdslck
+TimeEditLocked                 Mon Nov 27 17:41:18 2023 EST
