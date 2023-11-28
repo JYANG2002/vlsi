@@ -12,5 +12,5 @@ ProcessCreationTime_Readable   Mon Nov 27 17:01:39 2023 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/1#2dbit_ALU/layout/layout.oa.cdslck
-TimeEditLocked                 Mon Nov 27 17:02:30 2023 EST
+FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/1_bit_adder_no_gates/layout/layout.oa.cdslck
+TimeEditLocked                 Mon Nov 27 20:01:17 2023 EST
