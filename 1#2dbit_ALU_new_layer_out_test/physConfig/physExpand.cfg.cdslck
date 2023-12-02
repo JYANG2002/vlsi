@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      wentians
+HostName                       timberlake.cse.buffalo.edu
+ProcessIdentifier              4396
+ProcessCreationTime_UTC        1701490785
+ProcessCreationTime_Readable   Fri Dec  1 23:19:45 2023 EST
+AppIdentifier                  /util/cadence/ic/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/1#2dbit_ALU_new_layer_out_test/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Dec  2 00:04:43 2023 EST
