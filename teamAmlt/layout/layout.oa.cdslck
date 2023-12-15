@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      wentians
+HostName                       timberlake.cse.buffalo.edu
+ProcessIdentifier              19957
+ProcessCreationTime_UTC        1702326990
+ProcessCreationTime_Readable   Mon Dec 11 15:36:30 2023 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /shared/projects/CSE493/team-a/project/teamAmlt/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Mon Dec 11 15:36:58 2023 EST
